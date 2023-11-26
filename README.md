@@ -1,7 +1,4 @@
-## 👋 Hi! My name is [Muhammad Tabraiz]
-<a href="https://github.com/Tabraizbukhari/">
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=danharrin&show_icons=true" align="right" height="150" />
-</a>
+## 👋 Hi! My name is Muhammad Tabraiz
 <p>
 I'm a passionate Software Developer with a focus on PHP and Laravel, equipped with excellent skills honed through hands-on experience. My journey in the realm of technology has led me to work on diverse organizational products and services, where I've specialized in crafting robust web applications.  
 </p>
