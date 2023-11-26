@@ -7,7 +7,7 @@ I'm a passionate Software Developer with a focus on PHP and Laravel, equipped wi
 ## 💻 Tech Stack:
 <p>PHP and Laravel: My core strengths lie in leveraging the power of PHP as a foundational language, and I've mastered the intricacies of the Laravel framework. </p>
 <p> Vue.js: Proficient in building dynamic and responsive user interfaces.</p>
-<p> Bootstrap 4: Adept at utilizing Bootstrap to create visually appealing and mobile-friendly applications.</p>
+<p> Bootstrap 5: Adept at utilizing Bootstrap to create visually appealing and mobile-friendly applications.</p>
 
 <p>
 I'm not just a developer; I'm a problem solver with a knack for turning ideas into reality through code. Whether it's optimizing algorithms or crafting elegant solutions, I'm always up for a coding challenge.
